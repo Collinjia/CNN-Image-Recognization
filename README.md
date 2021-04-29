@@ -14,3 +14,5 @@ Hyperparameter tuning include tuning in several parts:
 * Learning rate: It means how fast the model learn (how many weight changes after each training). I tried the learning rate 0.01,0.001 and 0.0001.
 
 I used the Kerastuner with randomsearch method to get the optimized hyperparameter value. Detailed about Kerastuner can be found [here](https://keras-team.github.io/keras-tuner/).
+
+Detailed Model and tuning process can be found in [here](Image_recognization/Image_Recognization_Practice.ipynb).

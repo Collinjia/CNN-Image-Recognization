@@ -1,6 +1,8 @@
 # Image Recognization Practice
 This repository is a Keras practice in image recognization. It is an Assignment for AI coursework.
 
+The data I used is from [OpenML mnist_784 database](https://www.openml.org/d/554) which includes handwritten digits with 784 features.
+
 It includes model training and Hyperparameter tuning.
 
 It starts with model building with Convolutional Neutral Network. I chose the Relu function for the activation function for the hidden layer and the softmax function for the output layer.

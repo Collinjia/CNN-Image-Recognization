@@ -15,4 +15,4 @@ Hyperparameter tuning include tuning in several parts:
 
 I used the **Kerastuner** with randomsearch method to get the optimized hyperparameter value. Detailed about Kerastuner can be found [here](https://keras-team.github.io/keras-tuner/).
 
-Detailed Model and tuning process can be found in [here](Image_Recognization_Practice.ipynb).
+Detailed Model and tuning process can be found in [here](code.ipynb).
